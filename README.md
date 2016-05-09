@@ -35,6 +35,7 @@ From your Admin Control Panel:
 ## Credits
 
 - [Firebase](https://www.firebase.com/) by Google.
+- [Moment.js](http://momentjs.com/)
 - jQuery CSSEmoticons by @JangoSteve.
 - xBBCode by @patorjk.
 
