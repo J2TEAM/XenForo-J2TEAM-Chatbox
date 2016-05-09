@@ -1,6 +1,6 @@
 # XenForo J2TeaM Chatbox
 
-A chatbox add-on for XenForo
+A real-time chatbox add-on for your XenForo forum
 
 ## Screenshot
 
