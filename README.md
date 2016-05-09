@@ -10,7 +10,7 @@ A chatbox add-on for XenForo
 
 ## Installation
 
-1. Download the add-on and unzip it.
+1. [Download](https://github.com/J2TeaM/XenForo-J2TeaM-Chatbox/archive/master.zip) the add-on and unzip it.
 2. Upload the add-ons files into your XenForo installation. This will usually create a new directory within the library/ directory in your XenForo installation. In general, this shouldn't overwrite any existing files.
 3. From your Admin Control Panel, go to the "Install New Add-on" page. The add-on will have provided an XML file somewhere within it. Upload that file there and submit the form.
 
@@ -36,8 +36,8 @@ From your Admin Control Panel:
 
 - [Firebase](https://www.firebase.com/) by Google.
 - [Moment.js](http://momentjs.com/)
-- jQuery CSSEmoticons by @JangoSteve.
-- xBBCode by @patorjk.
+- [jQuery CSSEmoticons](https://github.com/JangoSteve/jQuery-CSSEmoticons) by @JangoSteve.
+- [xBBCode](https://github.com/patorjk/Extendible-BBCode-Parser) by @patorjk.
 
 ## License
 
